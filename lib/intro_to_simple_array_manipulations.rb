@@ -10,8 +10,8 @@ def using_uniq(haircuts)
   haircuts.uniq
 end
 
-def using_flatten(instruments)
-  instruments.flatten
+def using_flatten(array)
+  array.flatten
 end
 
 def using_delete(array, string)
